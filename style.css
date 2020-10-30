@@ -1,0 +1,103 @@
+/*css of body background color*/
+
+
+
+/*css of div-1*/
+
+.main-head{
+	width: 100%;
+	height:80px;
+background-color: blue;
+display: inline-block;
+
+}
+
+.mh-logo{
+
+	width: 200px;
+	height: 60px;
+	background-color: red;
+	display: inline-block;
+	margin: 10px 20px;
+
+}
+
+
+.mh-menu{
+
+	width: 500px;
+	height: 60px;
+	background-color: red;
+	display: inline-block;
+	margin: 10px 20px;
+	float: right;
+}
+
+.banner{
+width: 100%;
+height: 500px;
+background-color: yellow;
+
+}
+
+/*css of heading-1*/
+
+.heading-1{
+
+width: 300px;
+height: 50px;
+background-color: red;
+margin:20px auto;
+
+}
+
+.middle{
+width: 100%;
+height: 400px;
+background-color: rgb(130 200 245);
+
+}
+
+.middle-1{
+width: 300px;
+height: 300px;
+background-color: orange;
+display: inline-block;
+margin: 20px 50px;
+
+}
+
+.middle-2{
+width: 300px;
+height: 300px;
+background-color: red;
+margin: 20px 50px;
+display: inline-block;
+float: right;
+}
+
+
+
+.last{
+width: 100%;
+height: 100px;
+background-color: rgb(130 255 2);
+display: inline-block;
+
+}
+
+#last-1{
+width: 40%;
+height: 50px;
+
+background-color: rgb(100 120 135);
+margin: 30px auto; 
+
+}
+
+.image-2{
+width: 50%;
+height: 40px;
+background-color: red;
+margin: 20px auto;
+}
